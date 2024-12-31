@@ -152,25 +152,28 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 5.  The Coalition<br>
 6.  POV<br>                     
 7.  Umbrella<br>
-8.  Infinity<br>
-9.  Dradis<br>        
-10. Shadow<br>              
-11. Ghost<br>
-12. Base<br>                            
-13. Chain Reaction<br>
-14. Asgard<br>
-15. Patriot<br>
-16. Black Lightning<br>
-17. M.E.T.V<br>
-18. Aliunde 19<br>
-19. Nightwing Lite<br>
-20. Chains Genocide<br>
-21. Otaku<br>
-22. Realizer<br>
-23. Premiumizer<br>
-24. All Accounts<br>
-25. My Accounts<br>
-26. ResolveURL	
+8.  TheLab<br>
+9.  Infinity<br>
+10.  Dradis<br>        
+11. Shadow<br>
+12. The Great Milenko AIO<br>
+13. Ghost<br>
+14. Mario Bros. AIO<br>
+15. Base<br>                            
+16. Chain Reaction<br>
+17. Asgard<br>
+18. Patriot<br>
+19. Black Lightning<br>
+20. M.E.T.V<br>
+21. Aliunde 19<br>
+22. Nightwing Lite<br>
+23. Chains Genocide<br>
+24. Otaku<br>
+25. Realizer<br>
+26. Premiumizer<br>
+27. All Accounts<br>
+28. My Accounts<br>
+29. ResolveURL	
 
 
 ### OffCloud
@@ -188,31 +191,35 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 5.  The Coalition<br>
 6.  POV<br>                  
 7.  Umbrella<br>
-8.  Infinity<br>
-9.  Dradis<br>
-10. Shadow<br>
-11. Ghost<br>
-12. Base<br>         
-13. Chain Reaction<br>
-14. Asgard<br>
-15. Patriot<br>
-16. Black Lightning<br>
-17. Aliunde K19<br>
-18. Nightwing Lite<br>
-19. Homelander<br>
-20. Quicksilver<br>
-21. Chains Genocide<br>
-22. Absolution<br>      
-23. Shazam<br>
-24. The Crew<br>              
-25. Alvin<br>
-26. Moria<br>
-27. Nine Lives<br>
-28. Scrubs V2<br>
-29. TMDb Helper<br>
-30. Trakt Add-on<br>
-31. All Accounts<br>
-32. My Accounts
+8.  TheLab<br>
+9.  Infinity<br>
+10.  Dradis<br>
+11. Shadow<br>
+12. The Great Milenko AIO<br>
+13. Ghost<br>
+14. Mario Bros. AIO<br>
+15. Base<br>         
+16. Chain Reaction<br>
+17. Asgard<br>
+18. Patriot<br>
+19. Black Lightning<br>
+20. Aliunde K19<br>
+21. Nightwing Lite<br>
+22. Homelander<br>
+23. Quicksilver<br>
+24. Chains Genocide<br>
+25. Absolution<br>      
+26. Shazam<br>
+27. The Crew<br>
+28. Monopoly<br>
+29. Alvin<br>
+30. Moria<br>
+31. Nine Lives<br>
+32. Scrubs V2<br>
+33. TMDb Helper<br>
+34. Trakt Add-on<br>
+35. All Accounts<br>
+36. My Accounts
 
 
 ### Easynews
@@ -223,20 +230,23 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 4.  The Coalition<br>
 5.  POV<br>
 6.  Umbrella<br>
-7.  Infinity<br>
-8.  Dradis<br>
-9.  The Crew<br>
-10. All Accounts<br>
-11. My Accounts
+7.  TheLab<br>
+8.  Infinity<br>
+9.  Dradis<br>
+10.  The Crew<br>
+11.  Monopoly<br>
+12. All Accounts<br>
+13. My Accounts
 
 
 ### FilePursuit
 
 1. Umbrella<br>
-2. Infinity<br>
-3. Dradis<br>
-4. All Accounts<br>
-5. My Accounts
+2. TheLab<br>
+3. Infinity<br>
+4. Dradis<br>
+5. All Accounts<br>
+6. My Accounts
 
 
 ### Metadata
@@ -248,24 +258,25 @@ ActivateWindow(10001,plugin://script.module.acctview/?mode=metadata,return)</p><
 5.  The Coalition<br>
 6.  POV<br>                   
 7.  Umbrella<br>
-8.  Infinity<br>
-9.  Dradis<br>
-10. The Crew<br> 
-11. Homelander<br> 
-12. Quicksilver<br>
-13. Chains Genocide<br>           
-14. Shazam<br>
-15. Nightwing Lite<br>
-16. Alvin<br>
-17. TheLab<br>
-18. Moria<br>
-19. Absolution<br>
-20. Nine Lives<br>
-21. TMDb Helper<br>
-22. Embuary Info<br>
-23. Metahandler<br>
-24. PVR Artwork Module<br>
-25. All Accounts<br>
-26. My Accounts<br>
-27. Fentastic Skin<br>
-28. Nimbus Skin
+8.  TheLab<br>
+9.  Infinity<br>
+10.  Dradis<br>
+11. The Crew<br>
+12. Monopoly<br>
+13. Homelander<br> 
+14. Quicksilver<br>
+15. Chains Genocide<br>           
+16. Shazam<br>
+17. Nightwing Lite<br>
+18. Alvin<br>
+19. Moria<br>
+20. Absolution<br>
+21. Nine Lives<br>
+22. TMDb Helper<br>
+23. Embuary Info<br>
+24. Metahandler<br>
+25. PVR Artwork Module<br>
+26. All Accounts<br>
+27. My Accounts<br>
+28. Fentastic Skin<br>
+29. Nimbus Skin
